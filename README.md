@@ -1,4 +1,4 @@
-# Music Museum Project (80's Music)
+# Music Museum Project (1980s Music)
 
 This Git repository freely accessible online is some sort of digital museum of music tracks of certain time period. This project is called Music Museum Project, it includes various Git repositories containing music tracks of different time periods.
 
