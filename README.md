@@ -6,4 +6,4 @@ This Git repository freely accessible online is some sort of digital museum of m
 
 ## Composition
 
-This project called Music Museum Project is aimed at preserving legacy of different music eras, revealing various new artists with each new period of time. There is classical music collection, a repository of 80's and 90's music, a repository dedicated to 2000's music, and more beyond.
+This project called Music Museum Project is aimed at preserving legacy of different music eras, revealing various new artists with each new period of time. There is classical and lounge music collection, a repository of 80's and 90's music, a repository dedicated to 2000's music, and more beyond.
